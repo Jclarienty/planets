@@ -2,4 +2,4 @@ planets
 =======
 
 practice
-Tis is the project README.
+This is the project README.
